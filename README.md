@@ -60,11 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
+### 🎧 Currently Vibing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ChristianD">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ChristianD&count=4&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/8gxx3k7x5x8ei67ogtyr9vjil" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8gxx3k7x5x8ei67ogtyr9vjil&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
