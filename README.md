@@ -71,8 +71,14 @@
 ###
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianDantas/ChristianDantas/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ChristianDantas/ChristianDantas/output/snake.svg" alt="Snake animation" />
+</picture>
+
+###
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianDantas/ChristianDantas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianDantas/ChristianDantas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChristianDantas/ChristianDantas/output/pacman-contribution-graph.svg">
 </picture>
 
